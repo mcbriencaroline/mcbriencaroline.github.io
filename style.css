@@ -1,6 +1,7 @@
 body {
      background-color: #c4edfc;
-     font-family: Barrio;
+     font-family: Source Sans Pro;
+     font-color: black;
  }
 
 p {
@@ -11,6 +12,9 @@ p {
 
 h1 {
 	text-align: center;
-	color: black;
 	font-family: Barrio;
+}
+
+a {
+	text-decoration: none;
 }
